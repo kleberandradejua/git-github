@@ -8,3 +8,7 @@ Renomeando arquivos
 Desfazendo alterações
 
 - comando git checkout
+
+Resetando a branch
+
+- 

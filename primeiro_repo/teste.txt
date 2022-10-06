@@ -1,1 +1,10 @@
 testando o repositório!
+
+
+Renomeando arquivos
+
+- comando git mv -> move ou renomeia o arquivo
+
+Desfazendo alterações
+
+- comando git checkout

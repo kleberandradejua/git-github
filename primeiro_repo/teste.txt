@@ -11,4 +11,10 @@ Desfazendo alterações
 
 Resetando a branch
 
-- 
+- comando git reset --hard origin/master
+
+Branch
+
+- é a forma que o git separa as versões dos projetos
+- um projeto novo é iniciado a master(main)
+- geralmente cada nova featre de um projeto fica em um branch separado 
